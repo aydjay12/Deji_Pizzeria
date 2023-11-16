@@ -10,7 +10,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 const App = () => {
   return (
     <div className="App">
-      <Router basename="/ARUA_2023">
+      <Router basename="/Deji_Pizzeria">
         <Navbar></Navbar>
         <Routes>
           <Route path="/" element={<Home></Home>}></Route>
