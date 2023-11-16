@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Deji_Pizzeria/static/css/main.c92064db.css",
+    "main.js": "/Deji_Pizzeria/static/js/main.64705c99.js",
+    "static/js/787.fade2e9e.chunk.js": "/Deji_Pizzeria/static/js/787.fade2e9e.chunk.js",
+    "static/media/pizzaLeft.jpg": "/Deji_Pizzeria/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/Deji_Pizzeria/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/Deji_Pizzeria/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/Deji_Pizzeria/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/Deji_Pizzeria/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/Deji_Pizzeria/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/Deji_Pizzeria/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/Deji_Pizzeria/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/Deji_Pizzeria/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/KumbhSans-Regular.ttf": "/Deji_Pizzeria/static/media/KumbhSans-Regular.8b92f6bc143fd8e0909f.ttf",
+    "static/media/pedrotechspecial.jpg": "/Deji_Pizzeria/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/Deji_Pizzeria/index.html",
+    "main.c92064db.css.map": "/Deji_Pizzeria/static/css/main.c92064db.css.map",
+    "main.64705c99.js.map": "/Deji_Pizzeria/static/js/main.64705c99.js.map",
+    "787.fade2e9e.chunk.js.map": "/Deji_Pizzeria/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c92064db.css",
+    "static/js/main.64705c99.js"
+  ]
+}
