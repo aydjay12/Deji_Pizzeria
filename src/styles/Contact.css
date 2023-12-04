@@ -79,3 +79,22 @@ form button {
   font-family: "Kumbh Sans";
   cursor: pointer;
 }
+
+@media only screen and (max-width: 650px) {
+  .contact {
+    height: 130vh;
+    flex-direction: column;
+  }
+  .contact .leftSide {
+    width: 100%;
+  }
+  .contact .rightSide {
+    width: 100%;
+  }
+  form {
+    padding-top: 0;
+  }
+  .contact .rightSide h1 {
+    font-size: 40px;
+  }
+}
