@@ -82,7 +82,7 @@ form button {
 
 @media only screen and (max-width: 650px) {
   .contact {
-    height: 130vh;
+    height: 115vh;
     flex-direction: column;
   }
   .contact .leftSide {
