@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Deji_Pizzeria/static/css/main.c92064db.css",
+    "main.css": "/Deji_Pizzeria/static/css/main.2671cf21.css",
     "main.js": "/Deji_Pizzeria/static/js/main.bb048b16.js",
     "static/js/787.fade2e9e.chunk.js": "/Deji_Pizzeria/static/js/787.fade2e9e.chunk.js",
     "static/media/pizzaLeft.jpg": "/Deji_Pizzeria/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
@@ -15,12 +15,12 @@
     "static/media/KumbhSans-Regular.ttf": "/Deji_Pizzeria/static/media/KumbhSans-Regular.8b92f6bc143fd8e0909f.ttf",
     "static/media/pedrotechspecial.jpg": "/Deji_Pizzeria/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
     "index.html": "/Deji_Pizzeria/index.html",
-    "main.c92064db.css.map": "/Deji_Pizzeria/static/css/main.c92064db.css.map",
+    "main.2671cf21.css.map": "/Deji_Pizzeria/static/css/main.2671cf21.css.map",
     "main.bb048b16.js.map": "/Deji_Pizzeria/static/js/main.bb048b16.js.map",
     "787.fade2e9e.chunk.js.map": "/Deji_Pizzeria/static/js/787.fade2e9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c92064db.css",
+    "static/css/main.2671cf21.css",
     "static/js/main.bb048b16.js"
   ]
 }
